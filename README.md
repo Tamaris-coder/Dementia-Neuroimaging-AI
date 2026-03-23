@@ -1,4 +1,4 @@
-# 🧠 DementAI – Alzheimer's Disease Detection from Brain MRI using Deep Learning
+#  DementAI – Alzheimer's Disease Detection from Brain MRI using Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org/)
@@ -12,7 +12,7 @@ This project aims to classify different stages of **Alzheimer's disease** (and n
 - Mild Demented
 - Moderate Demented
 
-## ✨ Key Features
+##  Key Features
 - State-of-the-art model: **EfficientNet-B3** (pre-trained)
 - Strong data augmentation & training pipeline
 - **Grad-CAM** visualization for model interpretability (shows which brain regions the model focuses on)
