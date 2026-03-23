@@ -39,7 +39,7 @@ This project aims to classify different stages of **Alzheimer's disease** (and n
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/DementAI.git
+git clone https://github.com/Tamaris-coder/DementAI.git
 cd DementAI
 
 # 2. Install dependencies
